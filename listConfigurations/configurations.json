@@ -1,0 +1,20 @@
+{
+      "configurations": [
+            { "name": "host1", "hostname": "nessus-ntp.lab.com", "port": 6, "username": "Brian" },
+            { "name": "host2", "hostname": "nessus-xml.lab.com", "port": 8900, "username": "admin" },
+            { "name": "host3", "hostname": "nessus-ntp.lab.com", "port": 4123, "username": "toto" },
+            { "name": "host4", "hostname": "nessus-xml.lab.com", "port": 9656, "username": "admin" },
+            { "name": "host5", "hostname": "nessus-ntp.lab.com", "port": 1223, "username": "toto" },
+            { "name": "host6", "hostname": "nessus-xml.lab.com", "port": 3378, "username": "admin" },
+            { "name": "host7", "hostname": "nessus-ntp.lab.com", "port": 1964, "username": "toto" },
+            { "name": "host8", "hostname": "nessus-xml.lab.com", "port": 4432, "username": "admin" },
+            { "name": "host9", "hostname": "nessus-ntp.lab.com", "port": 6653, "username": "toto" },
+            { "name": "host10", "hostname": "nessus-xml.lab.com", "port": 9325, "username": "admin" },
+            { "name": "host11", "hostname": "nessus-ntp.lab.com", "port": 1274, "username": "toto" },
+            { "name": "host12", "hostname": "nessus-xml.lab.com", "port": 3392, "username": "admin" },
+            { "name": "host13", "hostname": "nessus-ntp.lab.com", "port": 1241, "username": "toto" },
+            { "name": "host14", "hostname": "nessus-xml.lab.com", "port": 3384, "username": "admin" },
+            { "name": "host15", "hostname": "nessus-ntp.lab.com", "port": 1247, "username": "toto" },
+            { "name": "host16", "hostname": "nessus-xml.lab.com", "port": 3384, "username": "admin" }
+      ]
+}

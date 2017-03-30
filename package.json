@@ -1,0 +1,38 @@
+{
+  "name": "nessus_challenge",
+  "version": "1.0.0",
+  "description": "Nessus Challenge",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianalbin3/nessus-challenge.git"
+  },
+  "author": "Brian Albin",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-jest": "^19.0.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.2.2",
+    "babel-preset-react": "^6.23.0",
+    "enzyme": "^2.8.0",
+    "express": "^4.15.2",
+    "jest": "^19.0.2",
+    "react-addons-test-utils": "^15.4.2",
+    "webpack": "^2.3.2",
+    "yarn": "^0.21.3"
+  },
+  "scripts": {
+    "server": "babel-node simple_server.js",
+    "watch": "webpack --watch"
+  },
+  "bugs": {
+    "url": "https://github.com/brianalbin3/nessus-challenge/issues"
+  },
+  "homepage": "https://github.com/brianalbin3/nessus-challenge#readme"
+}
