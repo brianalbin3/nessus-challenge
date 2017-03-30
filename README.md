@@ -11,4 +11,4 @@ This site loads configurations from the server and displays them in a table. I u
 3. In the command line run npm install
 4. In the command line run npm install webpack -g
 5. In the command line run npm run server
-6. In the command line run In the browser type in localhost:3000
+6. In the browser type in localhost:3000
